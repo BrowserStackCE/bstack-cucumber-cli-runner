@@ -1,4 +1,4 @@
-<h1 align="center">   :zap: <img src="https://avatars.githubusercontent.com/u/1119453?s=200&v=4" width="60" height="60" > <a href="https://github.com/browserstack/browserstack-examples-junit5">BrowserStack Cucumber CLI Runner</a>  <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="60" height="60" >
+<h1 align="center">   :zap: <img src="https://www.browserstack.com/images/static/header-logo.jpg" height="40" > <a href="https://github.com/browserstack/browserstack-examples-junit5">BrowserStack Cucumber CLI Runner</a>  <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="60" height="60" >
  :zap:</h1>
  
  Welcome to BrowserStack Cucumber CLI Runner, a sample UI testing framework empowered with **[Selenium](https://www.selenium.dev/)** and **[Cucumber-JVM](https://cucumber.io/docs/installation/java/)**. It is based on the **[WebDriver Framework](https://github.com/browserstack/webdriver-framework)**.
